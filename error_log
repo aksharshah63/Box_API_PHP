@@ -1,0 +1,102 @@
+[04-Jul-2023 05:48:20 UTC] PHP Warning:  Undefined array key "code" in /home/sparkleinfotech/projects/CRM/box_api/auth.php on line 42
+[04-Jul-2023 05:48:20 UTC] PHP Warning:  Undefined variable $client_id_error in /home/sparkleinfotech/projects/CRM/box_api/auth.php on line 97
+[04-Jul-2023 05:48:20 UTC] PHP Warning:  Undefined variable $client_secret_error in /home/sparkleinfotech/projects/CRM/box_api/auth.php on line 104
+[04-Jul-2023 05:48:20 UTC] PHP Warning:  Undefined variable $redUri_error in /home/sparkleinfotech/projects/CRM/box_api/auth.php on line 111
+[04-Jul-2023 05:48:20 UTC] PHP Warning:  Undefined array key "code" in /home/sparkleinfotech/projects/CRM/box_api/auth.php on line 129
+[04-Jul-2023 05:50:50 UTC] PHP Warning:  Undefined variable $access_token_error in /home/sparkleinfotech/projects/CRM/box_api/file_upload.php on line 86
+[04-Jul-2023 05:50:50 UTC] PHP Warning:  Undefined variable $folder_id_error in /home/sparkleinfotech/projects/CRM/box_api/file_upload.php on line 93
+[04-Jul-2023 05:50:50 UTC] PHP Warning:  Undefined variable $file_error in /home/sparkleinfotech/projects/CRM/box_api/file_upload.php on line 100
+[04-Jul-2023 05:50:50 UTC] PHP Warning:  Array to string conversion in /home/sparkleinfotech/projects/CRM/box_api/file_upload.php on line 118
+[04-Jul-2023 05:51:46 UTC] PHP Warning:  Undefined variable $access_token_error in /home/sparkleinfotech/projects/CRM/box_api/get_folder_items.php on line 75
+[04-Jul-2023 05:51:46 UTC] PHP Warning:  Undefined variable $folder_id_error in /home/sparkleinfotech/projects/CRM/box_api/get_folder_items.php on line 82
+[04-Jul-2023 05:51:46 UTC] PHP Warning:  Array to string conversion in /home/sparkleinfotech/projects/CRM/box_api/get_folder_items.php on line 100
+[04-Jul-2023 05:58:54 UTC] PHP Warning:  Undefined variable $client_id_error in /home/sparkleinfotech/projects/CRM/box_api/auth.php on line 97
+[04-Jul-2023 05:58:54 UTC] PHP Warning:  Undefined variable $client_secret_error in /home/sparkleinfotech/projects/CRM/box_api/auth.php on line 104
+[04-Jul-2023 05:58:54 UTC] PHP Warning:  Undefined variable $redUri_error in /home/sparkleinfotech/projects/CRM/box_api/auth.php on line 111
+[04-Jul-2023 05:58:54 UTC] PHP Warning:  Undefined variable $code_error in /home/sparkleinfotech/projects/CRM/box_api/auth.php on line 118
+[04-Jul-2023 05:58:54 UTC] PHP Warning:  Undefined array key "code" in /home/sparkleinfotech/projects/CRM/box_api/auth.php on line 136
+[04-Jul-2023 05:59:25 UTC] PHP Warning:  Undefined variable $client_id_error in /home/sparkleinfotech/projects/CRM/box_api/auth.php on line 97
+[04-Jul-2023 05:59:25 UTC] PHP Warning:  Undefined variable $client_secret_error in /home/sparkleinfotech/projects/CRM/box_api/auth.php on line 104
+[04-Jul-2023 05:59:25 UTC] PHP Warning:  Undefined variable $redUri_error in /home/sparkleinfotech/projects/CRM/box_api/auth.php on line 111
+[04-Jul-2023 05:59:25 UTC] PHP Warning:  Undefined variable $code_error in /home/sparkleinfotech/projects/CRM/box_api/auth.php on line 118
+[04-Jul-2023 05:59:25 UTC] PHP Warning:  Undefined array key "code" in /home/sparkleinfotech/projects/CRM/box_api/auth.php on line 136
+[04-Jul-2023 05:59:27 UTC] PHP Warning:  Undefined variable $client_id_error in /home/sparkleinfotech/projects/CRM/box_api/auth.php on line 97
+[04-Jul-2023 05:59:27 UTC] PHP Warning:  Undefined variable $client_secret_error in /home/sparkleinfotech/projects/CRM/box_api/auth.php on line 104
+[04-Jul-2023 05:59:27 UTC] PHP Warning:  Undefined variable $redUri_error in /home/sparkleinfotech/projects/CRM/box_api/auth.php on line 111
+[04-Jul-2023 05:59:27 UTC] PHP Warning:  Undefined array key "code" in /home/sparkleinfotech/projects/CRM/box_api/auth.php on line 136
+[04-Jul-2023 05:59:34 UTC] PHP Warning:  Undefined variable $client_id_error in /home/sparkleinfotech/projects/CRM/box_api/auth.php on line 97
+[04-Jul-2023 05:59:34 UTC] PHP Warning:  Undefined variable $client_secret_error in /home/sparkleinfotech/projects/CRM/box_api/auth.php on line 104
+[04-Jul-2023 05:59:34 UTC] PHP Warning:  Undefined variable $redUri_error in /home/sparkleinfotech/projects/CRM/box_api/auth.php on line 111
+[04-Jul-2023 05:59:34 UTC] PHP Warning:  Undefined variable $code_error in /home/sparkleinfotech/projects/CRM/box_api/auth.php on line 118
+[04-Jul-2023 05:59:34 UTC] PHP Warning:  Undefined array key "code" in /home/sparkleinfotech/projects/CRM/box_api/auth.php on line 136
+[04-Jul-2023 06:00:11 UTC] PHP Warning:  Undefined variable $client_id_error in /home/sparkleinfotech/projects/CRM/box_api/auth.php on line 97
+[04-Jul-2023 06:00:11 UTC] PHP Warning:  Undefined variable $client_secret_error in /home/sparkleinfotech/projects/CRM/box_api/auth.php on line 104
+[04-Jul-2023 06:00:11 UTC] PHP Warning:  Undefined variable $redUri_error in /home/sparkleinfotech/projects/CRM/box_api/auth.php on line 111
+[04-Jul-2023 06:00:11 UTC] PHP Warning:  Undefined variable $code_error in /home/sparkleinfotech/projects/CRM/box_api/auth.php on line 118
+[04-Jul-2023 06:00:11 UTC] PHP Warning:  Array to string conversion in /home/sparkleinfotech/projects/CRM/box_api/auth.php on line 136
+[04-Jul-2023 06:00:14 UTC] PHP Warning:  Undefined variable $client_id_error in /home/sparkleinfotech/projects/CRM/box_api/auth.php on line 97
+[04-Jul-2023 06:00:14 UTC] PHP Warning:  Undefined variable $client_secret_error in /home/sparkleinfotech/projects/CRM/box_api/auth.php on line 104
+[04-Jul-2023 06:00:14 UTC] PHP Warning:  Undefined variable $redUri_error in /home/sparkleinfotech/projects/CRM/box_api/auth.php on line 111
+[04-Jul-2023 06:00:14 UTC] PHP Warning:  Array to string conversion in /home/sparkleinfotech/projects/CRM/box_api/auth.php on line 136
+[04-Jul-2023 06:00:17 UTC] PHP Warning:  Undefined variable $client_id_error in /home/sparkleinfotech/projects/CRM/box_api/auth.php on line 97
+[04-Jul-2023 06:00:17 UTC] PHP Warning:  Undefined variable $client_secret_error in /home/sparkleinfotech/projects/CRM/box_api/auth.php on line 104
+[04-Jul-2023 06:00:17 UTC] PHP Warning:  Undefined variable $redUri_error in /home/sparkleinfotech/projects/CRM/box_api/auth.php on line 111
+[04-Jul-2023 06:00:17 UTC] PHP Warning:  Undefined variable $code_error in /home/sparkleinfotech/projects/CRM/box_api/auth.php on line 118
+[04-Jul-2023 06:00:36 UTC] PHP Warning:  Undefined variable $refresh_token_error in /home/sparkleinfotech/projects/CRM/box_api/refresh_token.php on line 84
+[04-Jul-2023 06:00:36 UTC] PHP Warning:  Undefined variable $client_id_error in /home/sparkleinfotech/projects/CRM/box_api/refresh_token.php on line 91
+[04-Jul-2023 06:00:36 UTC] PHP Warning:  Undefined variable $client_secret_error in /home/sparkleinfotech/projects/CRM/box_api/refresh_token.php on line 98
+[04-Jul-2023 06:00:36 UTC] PHP Warning:  Array to string conversion in /home/sparkleinfotech/projects/CRM/box_api/refresh_token.php on line 116
+[04-Jul-2023 06:00:39 UTC] PHP Warning:  Undefined variable $refresh_token in /home/sparkleinfotech/projects/CRM/box_api/refresh_token.php on line 29
+[04-Jul-2023 06:00:39 UTC] PHP Warning:  Undefined variable $client_id_error in /home/sparkleinfotech/projects/CRM/box_api/refresh_token.php on line 91
+[04-Jul-2023 06:00:39 UTC] PHP Warning:  Undefined variable $client_secret_error in /home/sparkleinfotech/projects/CRM/box_api/refresh_token.php on line 98
+[04-Jul-2023 06:00:39 UTC] PHP Warning:  Array to string conversion in /home/sparkleinfotech/projects/CRM/box_api/refresh_token.php on line 116
+[04-Jul-2023 06:00:52 UTC] PHP Warning:  Undefined variable $refresh_token_error in /home/sparkleinfotech/projects/CRM/box_api/refresh_token.php on line 84
+[04-Jul-2023 06:00:52 UTC] PHP Warning:  Undefined variable $client_id_error in /home/sparkleinfotech/projects/CRM/box_api/refresh_token.php on line 91
+[04-Jul-2023 06:00:52 UTC] PHP Warning:  Undefined variable $client_secret_error in /home/sparkleinfotech/projects/CRM/box_api/refresh_token.php on line 98
+[04-Jul-2023 06:01:01 UTC] PHP Warning:  Undefined variable $access_token_error in /home/sparkleinfotech/projects/CRM/box_api/create_folder.php on line 81
+[04-Jul-2023 06:01:01 UTC] PHP Warning:  Undefined variable $name_error in /home/sparkleinfotech/projects/CRM/box_api/create_folder.php on line 88
+[04-Jul-2023 06:01:01 UTC] PHP Warning:  Array to string conversion in /home/sparkleinfotech/projects/CRM/box_api/create_folder.php on line 106
+[04-Jul-2023 06:01:14 UTC] PHP Warning:  Undefined variable $access_token_error in /home/sparkleinfotech/projects/CRM/box_api/create_folder.php on line 81
+[04-Jul-2023 06:01:14 UTC] PHP Warning:  Undefined variable $name_error in /home/sparkleinfotech/projects/CRM/box_api/create_folder.php on line 88
+[04-Jul-2023 06:01:28 UTC] PHP Warning:  Undefined variable $access_token_error in /home/sparkleinfotech/projects/CRM/box_api/file_upload.php on line 86
+[04-Jul-2023 06:01:28 UTC] PHP Warning:  Undefined variable $folder_id_error in /home/sparkleinfotech/projects/CRM/box_api/file_upload.php on line 93
+[04-Jul-2023 06:01:28 UTC] PHP Warning:  Undefined variable $file_error in /home/sparkleinfotech/projects/CRM/box_api/file_upload.php on line 100
+[04-Jul-2023 06:01:28 UTC] PHP Warning:  Array to string conversion in /home/sparkleinfotech/projects/CRM/box_api/file_upload.php on line 118
+[04-Jul-2023 06:01:50 UTC] PHP Warning:  Undefined variable $access_token_error in /home/sparkleinfotech/projects/CRM/box_api/file_upload.php on line 86
+[04-Jul-2023 06:01:50 UTC] PHP Warning:  Undefined variable $folder_id_error in /home/sparkleinfotech/projects/CRM/box_api/file_upload.php on line 93
+[04-Jul-2023 06:01:50 UTC] PHP Warning:  Undefined variable $file_error in /home/sparkleinfotech/projects/CRM/box_api/file_upload.php on line 100
+[04-Jul-2023 06:02:08 UTC] PHP Warning:  Undefined variable $access_token_error in /home/sparkleinfotech/projects/CRM/box_api/get_folder_details.php on line 75
+[04-Jul-2023 06:02:08 UTC] PHP Warning:  Undefined variable $folder_id_error in /home/sparkleinfotech/projects/CRM/box_api/get_folder_details.php on line 82
+[04-Jul-2023 06:02:08 UTC] PHP Warning:  Array to string conversion in /home/sparkleinfotech/projects/CRM/box_api/get_folder_details.php on line 100
+[04-Jul-2023 06:02:15 UTC] PHP Warning:  Undefined variable $access_token_error in /home/sparkleinfotech/projects/CRM/box_api/get_folder_details.php on line 75
+[04-Jul-2023 06:02:15 UTC] PHP Warning:  Undefined variable $folder_id_error in /home/sparkleinfotech/projects/CRM/box_api/get_folder_details.php on line 82
+[04-Jul-2023 06:02:15 UTC] PHP Warning:  Array to string conversion in /home/sparkleinfotech/projects/CRM/box_api/get_folder_details.php on line 100
+[04-Jul-2023 06:02:26 UTC] PHP Warning:  Undefined variable $access_token_error in /home/sparkleinfotech/projects/CRM/box_api/get_folder_details.php on line 75
+[04-Jul-2023 06:02:26 UTC] PHP Warning:  Undefined variable $folder_id_error in /home/sparkleinfotech/projects/CRM/box_api/get_folder_details.php on line 82
+[04-Jul-2023 06:03:01 UTC] PHP Warning:  Undefined variable $access_token_error in /home/sparkleinfotech/projects/CRM/box_api/get_folder_items.php on line 75
+[04-Jul-2023 06:03:01 UTC] PHP Warning:  Undefined variable $folder_id_error in /home/sparkleinfotech/projects/CRM/box_api/get_folder_items.php on line 82
+[04-Jul-2023 06:03:01 UTC] PHP Warning:  Array to string conversion in /home/sparkleinfotech/projects/CRM/box_api/get_folder_items.php on line 100
+[04-Jul-2023 06:03:12 UTC] PHP Warning:  Undefined variable $access_token_error in /home/sparkleinfotech/projects/CRM/box_api/get_folder_items.php on line 75
+[04-Jul-2023 06:03:12 UTC] PHP Warning:  Undefined variable $folder_id_error in /home/sparkleinfotech/projects/CRM/box_api/get_folder_items.php on line 82
+[04-Jul-2023 06:06:08 UTC] PHP Warning:  Undefined variable $client_id_error in /home/sparkleinfotech/projects/CRM/box_api/auth.php on line 97
+[04-Jul-2023 06:06:08 UTC] PHP Warning:  Undefined variable $client_secret_error in /home/sparkleinfotech/projects/CRM/box_api/auth.php on line 104
+[04-Jul-2023 06:06:08 UTC] PHP Warning:  Undefined variable $redUri_error in /home/sparkleinfotech/projects/CRM/box_api/auth.php on line 111
+[04-Jul-2023 06:06:08 UTC] PHP Warning:  Undefined variable $code_error in /home/sparkleinfotech/projects/CRM/box_api/auth.php on line 118
+[04-Jul-2023 06:06:08 UTC] PHP Warning:  Array to string conversion in /home/sparkleinfotech/projects/CRM/box_api/auth.php on line 136
+[04-Jul-2023 06:06:25 UTC] PHP Warning:  Undefined variable $refresh_token_error in /home/sparkleinfotech/projects/CRM/box_api/refresh_token.php on line 84
+[04-Jul-2023 06:06:25 UTC] PHP Warning:  Undefined variable $client_id_error in /home/sparkleinfotech/projects/CRM/box_api/refresh_token.php on line 91
+[04-Jul-2023 06:06:25 UTC] PHP Warning:  Undefined variable $client_secret_error in /home/sparkleinfotech/projects/CRM/box_api/refresh_token.php on line 98
+[04-Jul-2023 06:06:25 UTC] PHP Warning:  Array to string conversion in /home/sparkleinfotech/projects/CRM/box_api/refresh_token.php on line 116
+[04-Jul-2023 06:06:38 UTC] PHP Warning:  Undefined variable $access_token_error in /home/sparkleinfotech/projects/CRM/box_api/create_folder.php on line 81
+[04-Jul-2023 06:06:38 UTC] PHP Warning:  Undefined variable $name_error in /home/sparkleinfotech/projects/CRM/box_api/create_folder.php on line 88
+[04-Jul-2023 06:06:38 UTC] PHP Warning:  Array to string conversion in /home/sparkleinfotech/projects/CRM/box_api/create_folder.php on line 106
+[04-Jul-2023 06:06:52 UTC] PHP Warning:  Undefined variable $access_token_error in /home/sparkleinfotech/projects/CRM/box_api/file_upload.php on line 86
+[04-Jul-2023 06:06:52 UTC] PHP Warning:  Undefined variable $folder_id_error in /home/sparkleinfotech/projects/CRM/box_api/file_upload.php on line 93
+[04-Jul-2023 06:06:52 UTC] PHP Warning:  Undefined variable $file_error in /home/sparkleinfotech/projects/CRM/box_api/file_upload.php on line 100
+[04-Jul-2023 06:06:52 UTC] PHP Warning:  Array to string conversion in /home/sparkleinfotech/projects/CRM/box_api/file_upload.php on line 118
+[04-Jul-2023 06:07:07 UTC] PHP Warning:  Undefined variable $access_token_error in /home/sparkleinfotech/projects/CRM/box_api/get_folder_details.php on line 75
+[04-Jul-2023 06:07:07 UTC] PHP Warning:  Undefined variable $folder_id_error in /home/sparkleinfotech/projects/CRM/box_api/get_folder_details.php on line 82
+[04-Jul-2023 06:07:07 UTC] PHP Warning:  Array to string conversion in /home/sparkleinfotech/projects/CRM/box_api/get_folder_details.php on line 100
+[04-Jul-2023 06:07:20 UTC] PHP Warning:  Undefined variable $access_token_error in /home/sparkleinfotech/projects/CRM/box_api/get_folder_items.php on line 75
+[04-Jul-2023 06:07:20 UTC] PHP Warning:  Undefined variable $folder_id_error in /home/sparkleinfotech/projects/CRM/box_api/get_folder_items.php on line 82
+[04-Jul-2023 06:07:20 UTC] PHP Warning:  Array to string conversion in /home/sparkleinfotech/projects/CRM/box_api/get_folder_items.php on line 100
